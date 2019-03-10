@@ -1,6 +1,0 @@
-owner=533440951104831530
-prefix=$
-game=$play
-stayinchannel=true
-songinstatus=false
-token=NTQ5MTM3OTA1OTMxNTE3OTYz.D1Pgqw.DVYy5iW0VRIoJYq3zabP1yXBLrk
